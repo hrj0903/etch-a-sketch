@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  padding-top: 5%;
+}
+.container {
+  margin: 5% auto;
+  display: grid;
+  max-width: 500px;
+  min-height: 500px;
+}
+.grid-item {
+  border: 1px solid #ddd;
+}
