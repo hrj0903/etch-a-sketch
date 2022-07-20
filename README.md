@@ -1,2 +1,3 @@
 # etch-a-sketch
-This app implements sketch functionality.
+
+자바스크립트 그림판
